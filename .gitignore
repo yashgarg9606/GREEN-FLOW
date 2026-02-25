@@ -1,0 +1,26 @@
+# dependencies
+node_modules
+venv
+__pycache__
+
+# env
+.env
+.env.local
+
+# build
+.next
+dist
+build
+
+# logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SUMO outputs
+*.xml
+*.sumocfg
+*.net.xml
+*.rou.xml
